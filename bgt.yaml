@@ -1,0 +1,12 @@
+---
+Elec:
+  Devices:
+  - Name: 'Desktop PC'
+    MaxWattage: 500
+    AvgWattage: 250
+    AvgOnTime: 8
+  - Name: rpi
+    MaxWattage: 5
+    AvgWattage: 2
+    AvgOnTime: 24
+  Tarrif: 17.2
